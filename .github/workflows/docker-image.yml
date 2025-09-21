@@ -29,5 +29,5 @@ jobs:
       uses: docker/scout-action@v1
       with:
         command: cves
-        image: tuusuario/fastapi-app:latest
+        image: bryanmiomi/fastapi-app:latest
         sarif-file: results.sarif
