@@ -129,14 +129,17 @@ push: true
 
 
 ### PASO 15: Ingresar al siguiente directorio "Action", para ver ejecutandose el workflows.
+<img width="986" height="732" alt="image" src="https://github.com/user-attachments/assets/84fc37d3-17a6-4f18-ac29-b39ed5be4c02" />
 
 
 
 ### PASO 16: Terminada la ejecución workflows, finalmente se puede revisar el reporte docker-scout-report, descargando el archivo.
 
+<img width="986" height="732" alt="image" src="https://github.com/user-attachments/assets/1225aea0-551c-48c6-8fe4-4e0a13d08893" />
 
 
 ## PASO 17. Visualizar el reporte
+<img width="1028" height="1000" alt="image" src="https://github.com/user-attachments/assets/687fd667-0f59-4e5e-9374-c5b38fe0490e" />
 
 
 
