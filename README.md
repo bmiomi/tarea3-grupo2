@@ -73,15 +73,16 @@ docker push superdavi1411/practica3_grupo2:v1
 
 
 ### PASO 8: Revizar la imagen subida en el repositorio de DockerHub
-
-
+<img width="1531" height="103" alt="image" src="https://github.com/user-attachments/assets/7fe9ffc8-aa00-417d-a47d-1a0c2407cc8a" />
 
 ### PASO 9: Iniciar sessión en GitHub y crear repositorio
 
+<img width="1200" height="463" alt="image" src="https://github.com/user-attachments/assets/f29c829b-3e39-4177-b207-2b1d5a4da24f" />
 
 
 ### PASO 10: El repositorio debe contener los siguientes archivos
 
+<img width="1200" height="463" alt="image" src="https://github.com/user-attachments/assets/09799bfa-c306-46cb-8f19-37d7115cf21f" />
 
 
 ### PASO 11: Ingresar al siguiente directorio
